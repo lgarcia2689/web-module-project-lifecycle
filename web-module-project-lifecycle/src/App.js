@@ -61,6 +61,24 @@ class App extends React.Component {
                     })
                 }
            </div>
+
+
+
+
+
+
+
+           <div className = "container">
+             <form type="text">  
+             <input></input>
+
+             </form>
+             <h1>Title</h1>
+             <p>Lorem ipsum</p>
+             <div className = "imageContainer">
+               <img></img>
+             </div>
+           </div>
           
 
 
@@ -69,3 +87,7 @@ class App extends React.Component {
   } 
 }
 export default App;
+
+
+
+
